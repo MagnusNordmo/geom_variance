@@ -1,6 +1,7 @@
 # geom_variance
 
 A new **ggplot2** extension to visually compare group differences and variability in a way that people can intuitively understand.
+![geom_variance](https://github.com/user-attachments/assets/a366f3a5-07bb-43af-9441-9770cec57966)
 
 Many people struggle to interpret probability density functions (PDFs). While PDFs can accurately communicate statistical information, they often fail to resonate with real-world experiences. By contrast, **geom_variance** mirrors what one would actually “see on the ground.” For instance, a teacher testing a new teaching tool immediately notices how individual students differ in their responses—some respond positively, some less so, and others show minimal difference. The distribution of these individual responses is precisely what **geom_variance** aims to show.
 
